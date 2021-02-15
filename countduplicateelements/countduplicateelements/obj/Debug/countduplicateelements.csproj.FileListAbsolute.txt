@@ -1,0 +1,2 @@
+C:\Users\ALIF\source\repos\countduplicateelements\countduplicateelements\obj\Debug\countduplicateelements.csprojAssemblyReference.cache
+C:\Users\ALIF\source\repos\countduplicateelements\countduplicateelements\obj\Debug\countduplicateelements.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\ALIF\source\repos\sumofarray\sumofarray\obj\Debug\sumofarray.csprojAssemblyReference.cache
+C:\Users\ALIF\source\repos\sumofarray\sumofarray\obj\Debug\sumofarray.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\source\repos\sumofarray\sumofarray\bin\Debug\sumofarray.exe.config
+C:\Users\ALIF\source\repos\sumofarray\sumofarray\bin\Debug\sumofarray.exe
+C:\Users\ALIF\source\repos\sumofarray\sumofarray\bin\Debug\sumofarray.pdb
+C:\Users\ALIF\source\repos\sumofarray\sumofarray\obj\Debug\sumofarray.exe
+C:\Users\ALIF\source\repos\sumofarray\sumofarray\obj\Debug\sumofarray.pdb

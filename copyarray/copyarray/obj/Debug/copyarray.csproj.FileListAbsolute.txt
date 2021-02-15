@@ -1,0 +1,7 @@
+C:\Users\ALIF\source\repos\copyarray\copyarray\bin\Debug\copyarray.exe.config
+C:\Users\ALIF\source\repos\copyarray\copyarray\bin\Debug\copyarray.exe
+C:\Users\ALIF\source\repos\copyarray\copyarray\bin\Debug\copyarray.pdb
+C:\Users\ALIF\source\repos\copyarray\copyarray\obj\Debug\copyarray.csprojAssemblyReference.cache
+C:\Users\ALIF\source\repos\copyarray\copyarray\obj\Debug\copyarray.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\source\repos\copyarray\copyarray\obj\Debug\copyarray.exe
+C:\Users\ALIF\source\repos\copyarray\copyarray\obj\Debug\copyarray.pdb
