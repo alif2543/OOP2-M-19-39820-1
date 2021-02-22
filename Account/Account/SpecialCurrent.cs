@@ -6,15 +6,33 @@ using System.Threading.Tasks;
 
 namespace Account
 {
-    class SpecialCurrent
+    class SpecialCurrent : Account
     {
-        private int openingBalance;
-
-        public int OpeningBalance
+        public SpecialCurrent(string name, string id, int balance) : base(name, id, balance)
         {
-            get { return openingBalance; }
-            set { openingBalance = value; }
+            Console.WriteLine("Special current account created.");
         }
-        
+
+        new public void withdraw(int withdraw)
+        {
+            if (withdraw >= (Balance * 10) / 100)
+            {
+                if (withdraw <= Balance)
+                {
+                    Balance = Balance - withdraw;
+                    Console.WriteLine("Withdraw done");
+                    Console.WriteLine("New Balance " + Balance);
+                }
+                else
+                {
+                    Console.WriteLine("Balance is less than " + withdraw);
+                }
+            }
+            else
+            {
+                Console.WriteLine("Less: " + (Balance * 10) / 100);
+            }
+        }
+
     }
 }

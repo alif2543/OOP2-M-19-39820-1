@@ -6,15 +6,31 @@ using System.Threading.Tasks;
 
 namespace Account
 {
-    class OverDraft
+    class OverDraft : Account
     {
-        private int limit;
-
-        public int Limit
+        public OverDraft(string name, string id, int balance)
         {
-            get { return limit; }
-            set { limit = value; }
+            Console.WriteLine("Overdraft created.");
         }
+        new public void withdraw(int withdraw)
+        {
+            if (withdraw > Balance)
+            {
+                int overdraft = Balance * 5000;
+                Balance = Balance + overdraft;
 
+                if (withdraw <= Balance)
+                {
+                    Balance = Balance - withdraw;
+                    Console.WriteLine("Transaction Executed!!!");
+                    Console.WriteLine(overdraft);
+                }
+                else
+                    Console.WriteLine("Sorry transaction can't be completed because its exceed the limits of loan");
+            }
+            else
+                Balance = Balance - withdraw;
+            Console.WriteLine("New Balance : " + Balance);
+        }
     }
 }
