@@ -1,0 +1,7 @@
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub\StudentDepartmentAssociation\StudentDepartmentAssociation\bin\Debug\StudentDepartmentAssociation.exe.config
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub\StudentDepartmentAssociation\StudentDepartmentAssociation\bin\Debug\StudentDepartmentAssociation.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub\StudentDepartmentAssociation\StudentDepartmentAssociation\bin\Debug\StudentDepartmentAssociation.pdb
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub\StudentDepartmentAssociation\StudentDepartmentAssociation\obj\Debug\StudentDepartmentAssociation.csprojAssemblyReference.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub\StudentDepartmentAssociation\StudentDepartmentAssociation\obj\Debug\StudentDepartmentAssociation.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub\StudentDepartmentAssociation\StudentDepartmentAssociation\obj\Debug\StudentDepartmentAssociation.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub\StudentDepartmentAssociation\StudentDepartmentAssociation\obj\Debug\StudentDepartmentAssociation.pdb
